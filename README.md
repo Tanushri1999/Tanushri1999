@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anurag Saxena and I'm a Frontend Developer, from New Delhi</h2>
+<h2 align="left">Hi 👋! My name is TANUSHRI and I'm a MERN Fullstack developer, from New Delhi</h2>
 
 ###
 <div align="center">
